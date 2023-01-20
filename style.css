@@ -1,0 +1,29 @@
+header.laplantilla{
+    background-color: black;
+    color: orange;
+
+}
+body{
+    background-color: rgb(255, 115, 0)
+}
+
+p.izquierda{
+    text-align: left;
+
+}
+p.centro{
+    text-align: center;
+
+}
+p.derecha{
+    text-align: right;
+}
+p.valencia{
+    float: right
+}
+p.ALMERIA{
+    float: right
+}
+p.valencia1{
+    float: left
+}
